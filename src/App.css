@@ -2,7 +2,12 @@
   text-align: center;
 }
 
-.App-logo {
+.App-logo-off {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.App-logo-on {
   animation: App-logo-spin infinite 20s linear;
   height: 40vmin;
   pointer-events: none;
